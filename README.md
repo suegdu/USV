@@ -46,7 +46,7 @@ Run:
 ```--:> python USV.py```
 
 #
-The Git way:
+<h4>The Git way :</h4>
 
 ```--:> git clone https://github.com/suegdu/USV.git```
 
@@ -58,7 +58,7 @@ Run:
 ```--:>python USV.py```
 
 #
-The Installer way (the easiest)
+<h4>The Installer way (the easiest) :</h4>
 
 <a href="https://github.com/suegdu/USV/releases">Download The Installer</a>
 
