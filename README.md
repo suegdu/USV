@@ -46,6 +46,17 @@ Run:
 ```--:> python USV.py```
 
 
+The git way:
+
+```--:> https://github.com/suegdu/USV.git```
+
+```--:> cd USV```
+
+```--:> pip install -r requirements.txt```
+
+Run:
+```--:> USV.py
+
 
 
 # The PT Build :
