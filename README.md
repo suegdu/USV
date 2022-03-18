@@ -37,7 +37,7 @@ install all the required libs
 
 ```pip install pathlib```
 
-```pip install threading```
+
 
 
 
