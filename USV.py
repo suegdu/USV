@@ -179,6 +179,8 @@ def workerM2():
     print(f"{c7}[{Fore.YELLOW}Take A Nice Cup Of Coffee While The Scan Is Running.;{c7}]")
     time.sleep(2)
     #try:
+
+    system("title "+"Status: USV : Fetching Sites (Only Popular Sites Scan)")
     Puadexing()
    # except:
      #    system("title "+"Status: Error: Something went wrong")
@@ -190,6 +192,8 @@ def workerM1():
     print(f"{c7}[{Fore.YELLOW}Take A Nice Cup Of Coffee While The Scan Is Running.;{c7}]")
     time.sleep(2)
    # try:
+
+    system("title "+"Status: USV : Fetching Sites (Full Scan)")
     ss()
     #except:
     #     system("title "+"Status: Error: Something went wrong")
@@ -212,10 +216,7 @@ def mainputtes():
      selectmode()
      
 def go_site(url):
-    tst = "Full Scan"
-    if puests==True:
-        tst = "Only Popular Sites Scan"
-    system("title "+f"Status: USV : Fetching Sites ({tst})")
+
 
     session = get_session()   
     with session.get(url = url+mainputtes.user, timeout = 10) as response:
