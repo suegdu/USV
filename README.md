@@ -55,7 +55,7 @@ The Git way:
 ```--:> pip install -r requirements.txt```
 
 Run:
-```--:> USV.py```
+```--:>python USV.py```
 
 
 
