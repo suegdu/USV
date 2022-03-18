@@ -21,9 +21,9 @@ Over 350 are being searched, as you can add more sites easily by adding a new li
 
 
 
+ 
 
-
-- <p>USV are Licensed under the <a href="./LICENSE.md" </a>Creative Commons Zero v1.0 Universal License</p> 
+- <p>USV are Licensed under the <a href="./LICENSE.md" </a>Creative Commons Zero v1.0 Universal License do not disturb!</p> 
 
 
 # installation
