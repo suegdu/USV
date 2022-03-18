@@ -57,6 +57,12 @@ The Git way:
 Run:
 ```--:>python USV.py```
 
+#
+The Installer way (the easiest)
+
+<a href="https://github.com/suegdu/USV/releases">Download The Installer</a>
+
+```Download The USV_1.0Installer.exe```
 
 
 # The PT Build :
