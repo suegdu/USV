@@ -45,8 +45,8 @@ install all the required libs
 Run:
 ```--:> python USV.py```
 
-
-The git way:
+#
+The Git way:
 
 ```--:> https://github.com/suegdu/USV.git```
 
