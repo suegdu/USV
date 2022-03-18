@@ -33,18 +33,14 @@ install all the required libs
 
 ```pip install requests```
 
-
 ```pip install colorama```
 
 ```pip install pathlib```
 
 ```pip install threading```
 
-```pip install webbrowser```
 
-```pip install concurrent```
 
-```pip install datetime```
 
 Run:
 ```--:> python USV.py```
