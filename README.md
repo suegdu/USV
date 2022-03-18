@@ -48,7 +48,7 @@ Run:
 #
 The Git way:
 
-```--:> https://github.com/suegdu/USV.git```
+```--:> git clone https://github.com/suegdu/USV.git```
 
 ```--:> cd USV```
 
