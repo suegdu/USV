@@ -69,3 +69,17 @@ Run:
 
 ![](https://cdn.discordapp.com/attachments/854838593373995019/954142394394226789/2022-03-18_01_21_08.png)
 # currently not available due to a problem with threading under repair
+
+
+---
+
+# NotAbleChanges :
+
+```C = coming soon```
+
+```D = done```
+
+
+> C/ The Ability to scan a custom sort of sites through a custom text file provided by the user.
+
+> C/ General-side improvements.
