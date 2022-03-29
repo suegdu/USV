@@ -9,7 +9,7 @@ Over 350 sites are being searched, as you can add more sites easily by adding a 
 
 
 
-<a href="https://i.postimg.cc/3rBrKJQg/ezgif-5-dd14fa6b2b.gif">Gif link</a>
+<a href="https://i.postimg.cc/3rBrKJQg/ezgif-5-dd14fa6b2b.gif">Gif link</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/suegdu/USV#notablechanges-">NotAbleChanges</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/suegdu/USV#the-pt-build-">The PT Build</a>
 
 ![](https://cdn.discordapp.com/attachments/790231513849266177/954383757450809404/2022-03-18_17_19_06.png)
 ![](https://cdn.discordapp.com/attachments/790231513849266177/954383757652140062/2022-03-18_17_19_25.png)
@@ -75,8 +75,7 @@ Run:
 
 # NotAbleChanges :
 
-```C = coming soon```
-
+```C = coming soon```<br />
 ```D = done```
 
 <h4>3/29/2022 :</h4>
@@ -84,3 +83,5 @@ Run:
 > C/ The Ability to scan a custom sort of sites through a custom text file provided by the user.
 
 > C/ General-side improvements.
+
+> C/ The sites scan system will be changed which will provide more sites and weekly updates to the list.
