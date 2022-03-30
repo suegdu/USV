@@ -3,6 +3,8 @@ USV | The (Username's Social Availability)
 
 Over 350 sites are being searched, as you can add more sites easily by adding a new line with `'sitelink',`
 
+---
+
 <a href="https://github.com/suegdu/USV#notablechanges-">NotAbleChanges</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/suegdu/USV#the-pt-build-">The PT Build</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/suegdu/USV#installation">USV Installation (From The Source)</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/suegdu/USV/releases">USV Installation through the (.exe installer)</a>
 # Images
 
