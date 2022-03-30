@@ -3,13 +3,13 @@ USV | The (Username's Social Availability)
 
 Over 350 sites are being searched, as you can add more sites easily by adding a new line with `'sitelink',`
 
-
+<a href="https://github.com/suegdu/USV#notablechanges-">NotAbleChanges</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/suegdu/USV#the-pt-build-">The PT Build</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/suegdu/USV#installation">USV Installation (From The Source)</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/suegdu/USV/releases">USV Installation through the (.exe installer)</a>
 # Images
 
 
 
 
-<a href="https://i.postimg.cc/3rBrKJQg/ezgif-5-dd14fa6b2b.gif">Gif link</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/suegdu/USV#notablechanges-">NotAbleChanges</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/suegdu/USV#the-pt-build-">The PT Build</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/suegdu/USV#installation">USV Installation (From The Source)</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/suegdu/USV/releases">USV Installation through the (.exe installer)</a>
+<a href="https://i.postimg.cc/3rBrKJQg/ezgif-5-dd14fa6b2b.gif">Gif link</a>
 
 ![](https://cdn.discordapp.com/attachments/790231513849266177/954383757450809404/2022-03-18_17_19_06.png)
 ![](https://cdn.discordapp.com/attachments/790231513849266177/954383757652140062/2022-03-18_17_19_25.png)
