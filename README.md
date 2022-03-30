@@ -1,5 +1,5 @@
 # USV
-USV || The (Username's Social Availability)
+USV | The (Username's Social Availability)
 
 Over 350 sites are being searched, as you can add more sites easily by adding a new line with `'sitelink',`
 
