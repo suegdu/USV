@@ -89,3 +89,5 @@ Run:
 > C/ The sites scan system will be changed which will provide more sites and weekly updates to the list.
 
 > C/ Fix the threading problem in the PT build.
+
+[Discord](https://discord.gg/rydZxy7Qxr)
