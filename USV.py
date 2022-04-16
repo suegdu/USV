@@ -375,7 +375,6 @@ def ss():
     'https://community.cloudflare.com/',
     'https://www.quora.com/profile/',
     'https://pcpartpicker.com/',
-    'https://xboxgamertag.com/',
     'https://habr.com/',
     'https://www.nairaland.com/',
     'https://flipboard.com/',
